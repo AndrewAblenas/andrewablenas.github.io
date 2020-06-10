@@ -1,0 +1,21 @@
+/* body format */
+body {
+  background-color: #333333;
+}
+
+/* headings */
+hr {
+  border-top-width: 15px;
+  width: 120px;
+  border-style: dotted none none none;
+  border-color: #EDEDED;
+}
+h1 {
+  color: #226B80;
+}
+h2 {
+  color: #35B0AB;
+}
+h3 {
+  color: #35B0AB;
+}
